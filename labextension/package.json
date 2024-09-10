@@ -42,7 +42,7 @@
     "@phosphor/messaging": "^1.3.0",
     "classnames": "^2.2.6",
     "react": "~16.8.6",
-    "react-router-dom": "^5.1.2",
+    "react-router-dom": "^6.0.0",
     "@jupyterlab/services": "^4.2.3"
   },
   "devDependencies": {
